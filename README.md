@@ -4,7 +4,6 @@
 🌟 Electronics and Computer Engineer | Data Science & ML Enthusiast | Tech Explorer  
 </p>
 
----
 
 ## 👩‍💻 About Me
 
@@ -13,7 +12,6 @@
 - 📚 Currently diving deeper into **TensorFlow**, **OpenCV**, and **NLP**
 - 💬 Always eager to collaborate and learn new technologies
 
----
 
 ## 🔗 Connect with Me
 
@@ -28,7 +26,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>
 </p>
-
 
 
 ## 🧠 Technical Skills
@@ -81,19 +78,19 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=SakshiBiyani02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SakshiBiyani02&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshiBiyani02&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiBiyani02&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
