@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Sakshi Biyani ☺️</h1>
 
 <p align="center">
-🌟 Data Science & ML Enthusiast | Electronics and Computer Engineer| Tech Explorer  
+🌟 Electronics and Computer Engineer | Data Science & ML Enthusiast | Tech Explorer  
 </p>
 
 ---
@@ -52,25 +52,36 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mediapipe/mediapipe-original.svg" alt="MediaPipe" width="40" height="40"/>
 </p>
 
-### 🗄️ Databases & Platforms
+### 🗄️ Databases & Cloud
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
-### 🧰 Tools & IDEs
+### 🧰 Tools & Platforms
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cisco_packet_tracer_icon.png" alt="Cisco Packet Tracer" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio_logo.svg" alt="R Studio" width="40" height="40"/>
 </p>
+
+---
+
+## 🔍 Areas of Interest
+
+- Machine Learning & Deep Learning  
+- Data Science & Analytics  
+- Natural Language Processing (NLP)  
+- Computer Vision & Image Processing  
+- AI for Healthcare and Real-world Applications
+
 
 ---
 
