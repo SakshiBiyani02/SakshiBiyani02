@@ -29,7 +29,7 @@
   </a>
 </p>
 
----
+
 
 ## 🧠 Technical Skills
 
@@ -68,7 +68,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
----
+
 
 ## 🔍 Areas of Interest
 
@@ -79,7 +79,11 @@
 - AI for Healthcare and Real-world Applications
 
 
----
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SakshiBiyani02&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ## 📊 GitHub Stats
 
