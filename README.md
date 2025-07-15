@@ -1,7 +1,7 @@
-<h1 align="center"> Hi, I'm Sakshi Biyani ☺️</h1>
+<h1 align="center"> Hey! I'm Sakshi Biyani ☺️</h1>
 
 <p align="center">
-🌟 Electronics and Computer Engineer | Data Science & ML Enthusiast | Tech Explorer  
+Electronics and Computer Engineer | Data Science & ML Enthusiast | Tech Explorer  
 </p>
 
 
